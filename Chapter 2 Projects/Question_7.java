@@ -1,7 +1,7 @@
 
 public class Question_7
 {
-    public static final int SIZE=14;
+    public static final int SIZE=10;
 	public static void main(String[] args) {
 	top();
 	middle();
